@@ -17,3 +17,5 @@
 
 # Misc.
 /backup
+/data
+*.log
